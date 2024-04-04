@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Darekar</h1>
-<h3 align="center">A enthusiastic learner diving into the world of Machine Learning from India</h3>
+<h3 align="center">A enthusiastic learner diving into the world of Cyber Security from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvyy&label=Profile%20views&color=0e75b6&style=flat" alt="yuvyy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yuvraj_darekar" target="blank"><img src="https://img.shields.io/twitter/follow/yuvraj_darekar?logo=twitter&style=for-the-badge" alt="yuvraj_darekar" /></a> </p>
 
-- 🌱 I’m currently learning **Supervised Machine Learning: Regression and Classification**
+- 🌱 I’m currently learning **Metasploit**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Linux**
 
 - 📫 How to reach me **yuvydarekar@gmail.com**
 
-- ⚡ Fun fact **I am in CSI-PCE**
+- ⚡ Fun fact **I make websites for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
