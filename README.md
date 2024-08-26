@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Darekar</h1>
 <h3 align="center">A enthusiastic learner diving into the world of Cyber Security from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvyy&label=Visitors%20Count&color=0e75b6&style=flat" alt="yuvyy" /> </p>
 
